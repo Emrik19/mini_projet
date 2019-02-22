@@ -3,3 +3,14 @@ def create_ui():
   Version
   -------
   specification: Francois Bechet (v.1 22/02/19)
+
+def illegal_action():
+    """
+    verify if the player action can be effectued
+    note:
+    -----
+    check if player action is legal
+    Version:
+    --------
+    specification: Alan Prignon (v.1 22/02/19)
+    
