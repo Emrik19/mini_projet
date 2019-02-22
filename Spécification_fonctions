@@ -1,9 +1,10 @@
 def create_ui():
-  """This function will create the tray
-  Version
-  -------
-  specification: Francois Bechet (v.1 22/02/19)
-  """
+    """This function will create the tray
+    Version
+    -------
+    specification: Francois Bechet (v.1 22/02/19)
+    """
+
 
 def illegal_action():
     """
@@ -15,13 +16,21 @@ def illegal_action():
     --------
     specification: Alan Prignon (v.1 22/02/19)
     """
-    
- def get_stats_heroes(type):
+
+
+def get_stats_heroes(type):
     """
-        search heroes caracteristics in the data structure
-        Version:
-        --------
-        specification: Alan Prignon (v.1 22/02/19)
-        """
- 
-    
+    search heroes caracteristics in the data structure
+    Version:
+    --------
+    specification: Alan Prignon (v.1 22/02/19)
+    """
+
+
+def special_capacities():
+    """
+    allow the players to invocate the heroes special capacities
+    Version:
+    --------
+    specification: Bechet Francois (v.1 22/02/19)
+    """
