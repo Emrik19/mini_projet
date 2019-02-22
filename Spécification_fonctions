@@ -41,3 +41,11 @@ def moves():
     Version :
     --------
     specification: Prignon Alan (v.1 22/02/19)
+   
+ def attack ():
+    """
+    allows the player to request an attack on an ennemy
+    Version :
+    ----------
+    specification : Prignon Alan (v.1 22/02/19)
+    
