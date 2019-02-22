@@ -14,3 +14,14 @@ def illegal_action():
     --------
     specification: Alan Prignon (v.1 22/02/19)
     
+ def create_heroes():
+    """
+    This function will create the four champions for the players 
+    
+    return
+    ------
+    champions and class 
+    
+    versions
+    --------
+    specification: Grenson Emrik (v.1 22/02/19)
