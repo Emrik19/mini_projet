@@ -1,0 +1,5 @@
+def create_ui():
+  """This function will create the tray
+  Version
+  -------
+  specification: Francois Bechet (v.1 22/02/19)
