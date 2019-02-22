@@ -14,7 +14,7 @@ def illegal_action():
     check if player action is legal
     Version:
     --------
-    specification: Alan Prignon (v.1 22/02/19)
+    specification: Prignon Alan (v.1 22/02/19)
     """
 
 
@@ -23,7 +23,7 @@ def get_stats_heroes(type):
     search heroes caracteristics in the data structure
     Version:
     --------
-    specification: Alan Prignon (v.1 22/02/19)
+    specification: Prignon Alan (v.1 22/02/19)
     """
 
 
@@ -34,3 +34,10 @@ def special_capacities():
     --------
     specification: Bechet Francois (v.1 22/02/19)
     """
+
+def moves():
+    """
+    allows the players to move his heroes
+    Version :
+    --------
+    specification: Prignon Alan (v.1 22/02/19)
